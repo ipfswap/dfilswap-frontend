@@ -1,0 +1,33 @@
+{
+  "files": {
+    "static/js/0.bfef713d.chunk.js": "/dfilswap-frontend/static/js/0.bfef713d.chunk.js",
+    "main.css": "/dfilswap-frontend/static/css/main.b542106b.chunk.css",
+    "main.js": "/dfilswap-frontend/static/js/main.34fbae2f.chunk.js",
+    "runtime-main.js": "/dfilswap-frontend/static/js/runtime-main.7d48b266.js",
+    "static/js/3.13f34121.chunk.js": "/dfilswap-frontend/static/js/3.13f34121.chunk.js",
+    "static/js/4.695ce313.chunk.js": "/dfilswap-frontend/static/js/4.695ce313.chunk.js",
+    "static/js/5.5d4ccae0.chunk.js": "/dfilswap-frontend/static/js/5.5d4ccae0.chunk.js",
+    "static/js/6.6ccabdcb.chunk.js": "/dfilswap-frontend/static/js/6.6ccabdcb.chunk.js",
+    "static/js/7.f938b36b.chunk.js": "/dfilswap-frontend/static/js/7.f938b36b.chunk.js",
+    "static/js/8.b983f7c6.chunk.js": "/dfilswap-frontend/static/js/8.b983f7c6.chunk.js",
+    "static/js/9.afc41d86.chunk.js": "/dfilswap-frontend/static/js/9.afc41d86.chunk.js",
+    "static/js/10.970cff79.chunk.js": "/dfilswap-frontend/static/js/10.970cff79.chunk.js",
+    "index.html": "/dfilswap-frontend/index.html",
+    "precache-manifest.370e83a5221d622c3902d4c9d802e91f.js": "/dfilswap-frontend/precache-manifest.370e83a5221d622c3902d4c9d802e91f.js",
+    "service-worker.js": "/dfilswap-frontend/service-worker.js",
+    "static/js/3.13f34121.chunk.js.LICENSE.txt": "/dfilswap-frontend/static/js/3.13f34121.chunk.js.LICENSE.txt",
+    "static/js/5.5d4ccae0.chunk.js.LICENSE.txt": "/dfilswap-frontend/static/js/5.5d4ccae0.chunk.js.LICENSE.txt",
+    "static/js/6.6ccabdcb.chunk.js.LICENSE.txt": "/dfilswap-frontend/static/js/6.6ccabdcb.chunk.js.LICENSE.txt",
+    "static/js/7.f938b36b.chunk.js.LICENSE.txt": "/dfilswap-frontend/static/js/7.f938b36b.chunk.js.LICENSE.txt",
+    "static/js/8.b983f7c6.chunk.js.LICENSE.txt": "/dfilswap-frontend/static/js/8.b983f7c6.chunk.js.LICENSE.txt",
+    "static/media/chef.png": "/dfilswap-frontend/static/media/chef.8d58469f.png",
+    "static/media/metamask-fox.svg": "/dfilswap-frontend/static/media/metamask-fox.c06f3a3e.svg",
+    "static/media/wallet-connect.svg": "/dfilswap-frontend/static/media/wallet-connect.d1f73612.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d48b266.js",
+    "static/js/3.13f34121.chunk.js",
+    "static/css/main.b542106b.chunk.css",
+    "static/js/main.34fbae2f.chunk.js"
+  ]
+}
