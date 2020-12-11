@@ -2,7 +2,7 @@
   "name": "yam",
   "version": "0.1.0",
  "description": "DFilswap-frontend",
-  "homepage": "./"
+  "homepage": "./",
   "private": true,
   "dependencies": {
     "@types/debounce": "^1.2.0",
