@@ -1,7 +1,7 @@
 {
   "name": "yam",
   "version": "0.1.0",
- "description": "DFilswap-frontend",
+  "description": "DFilswap-frontend",
   "homepage": "./",
   "private": true,
   "dependencies": {
